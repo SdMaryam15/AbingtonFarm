@@ -45,7 +45,7 @@ nav ul {
     list-style: none;
     display: inline-flex; /* Keeps menu items inline */
     margin: auto;
-    padding: auto;
+    padding: 20px ;
 }
 
 nav ul li {
@@ -69,14 +69,14 @@ h1 {
     font-size: 2rem;
     color: #2a9d8f;
     margin: 20px 0;
-    'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
     text-align: left;
     color: #2a9d8f;
     margin: 10px 0;
-    'Montserrat', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 /* Activity Section Styles */
